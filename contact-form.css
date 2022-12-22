@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cf{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75),rgba(0, 0, 0, 0.75)),url(contactform.jpg);
+    
+}
+
+table {
+    tab-size: 100%;
+	font-family : sans-serif;
+	font-size : 100%;
+    font-weight: bold;
+   
+}
+ h1 {
+   top: 800px;
+   color: peachpuff;
+   font-family: sans-serif;
+   text-align: center;
+ }
